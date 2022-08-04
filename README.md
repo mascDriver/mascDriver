@@ -31,8 +31,8 @@
   
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=mascDriver&repo=song-request-spotify)](https://github.com/mascDriver/song-request-spotify)
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=mascDriver&repo=app_ru_uffs)](https://github.com/mascDriver/app_ru_uffs)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=mascDriver&repo=masc-hour-bank)](https://github.com/mascDriver/masc-hour-bank)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=mascDriver&repo=masc-hour-bank_api)](https://github.com/mascDriver/masc-hour-bank_api)
    <div>
       <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
       <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
