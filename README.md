@@ -1,9 +1,3 @@
-# 💫 About Me:
-mascDriver's GitHub repository is a collection of projects that showcase their skills and expertise in software development. 
-<br>With a passion for coding and a keen eye for detail, mascDriver has created a diverse range of projects, including web applications, command-line tools, and scripts, among others. 
-<br>Each project demonstrates their ability to write clean, efficient, and maintainable code using various programming languages and technologies.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mascDriver) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-baltazar-do-nascimento) 
@@ -67,8 +61,8 @@ mascDriver's GitHub repository is a collection of projects that showcase their s
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mascDriver&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mascDriver&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mascDriver&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mascDriver&theme=onedark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mascDriver&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
