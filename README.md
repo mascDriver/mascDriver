@@ -28,10 +28,4 @@
   <a href = "mailto:diogobaltazardonascimentoh@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-baltazar-do-nascimento-865531158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href="http://twitch.com/mascDriver" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  
-  
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=mascDriver&repo=masc-hour-bank)](https://github.com/mascDriver/masc-hour-bank)
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=mascDriver&repo=masc-hour-bank_api)](https://github.com/mascDriver/masc-hour-bank_api)
-  
-
 </div>
