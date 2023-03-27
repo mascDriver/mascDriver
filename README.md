@@ -1,9 +1,4 @@
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mascDriver&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mascDriver&theme=onedark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mascDriver&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mascDriver) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-baltazar-do-nascimento) 
