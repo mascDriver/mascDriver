@@ -119,6 +119,7 @@
 
 ![Selenium](https://img.shields.io/badge/Selenium-%230A0A0A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white)
+![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge)
 </td>
 
 <td>
