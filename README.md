@@ -2,7 +2,7 @@
 
 - 🇧🇷 &nbsp;**FullStack Developer** from Brazil
 - 🔭 &nbsp;I’m currently working at **Delinea Edtech** :wink:
-- 📚 &nbsp;Studying Computer Science at **UFFS**
+- 📚 &nbsp;Bachelor of Computer Science at **UFFS**
 - 🌱 &nbsp;I’m currently learning Tensorflow and OpenCV
 - 👨‍💻 &nbsp;Read more about my projects at [mascdriver.com.br](https://mascdriver.com.br/)
 - ⚡ &nbsp;Fun fact: Sometimes I do lives on twitch ([Twitch mascDriver](https://www.twitch.tv/mascDriver))
