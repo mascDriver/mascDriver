@@ -1,7 +1,7 @@
 ## 👋 My name is Diogo and welcome to my Github!
 
 - 🇧🇷 &nbsp;**FullStack Developer** from Brazil
-- 🔭 &nbsp;I’m currently working at **Delinea Edtech** :wink:
+- 🔭 &nbsp;I’m currently working at **Qubika** :wink:
 - 📚 &nbsp;Bachelor of Computer Science at **UFFS**
 - 📚 &nbsp;Post Graduation in Artificial Intelligence at **UTFPR**
 - 🌱 &nbsp;I’m currently learning Tensorflow and OpenCV
